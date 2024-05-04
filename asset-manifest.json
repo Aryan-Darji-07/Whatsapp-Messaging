@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Whatsapp-Messaging/static/css/main.4156e001.css",
+    "main.js": "/Whatsapp-Messaging/static/js/main.1335f2f7.js",
+    "static/js/453.43a6a989.chunk.js": "/Whatsapp-Messaging/static/js/453.43a6a989.chunk.js",
+    "static/media/whatsapp.png": "/Whatsapp-Messaging/static/media/whatsapp.6c9dde601e39c57f809d.png",
+    "static/media/pin.png": "/Whatsapp-Messaging/static/media/pin.39440da4ab08a5d6cb98.png",
+    "static/media/emoji.png": "/Whatsapp-Messaging/static/media/emoji.51040ad62ad7dddd6914.png",
+    "static/media/voice.png": "/Whatsapp-Messaging/static/media/voice.d041d967dda2dc812a0d.png",
+    "static/media/camara.png": "/Whatsapp-Messaging/static/media/camara.d2f165d7757150412630.png",
+    "static/media/videocall.png": "/Whatsapp-Messaging/static/media/videocall.7d82a1db467311207f2c.png",
+    "index.html": "/Whatsapp-Messaging/index.html",
+    "main.4156e001.css.map": "/Whatsapp-Messaging/static/css/main.4156e001.css.map",
+    "main.1335f2f7.js.map": "/Whatsapp-Messaging/static/js/main.1335f2f7.js.map",
+    "453.43a6a989.chunk.js.map": "/Whatsapp-Messaging/static/js/453.43a6a989.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4156e001.css",
+    "static/js/main.1335f2f7.js"
+  ]
+}
